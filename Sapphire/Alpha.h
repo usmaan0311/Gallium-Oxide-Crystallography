@@ -4,7 +4,7 @@
 #include<cmath>
 
 class Alpha{
-// Lattice parameters orthorhombic epsilon phase of Ga2o3
+// Lattice parameters of Al2O3
 const double a=4.785; // a=b
 const double c=12.991;
 const double A=M_PI/2;

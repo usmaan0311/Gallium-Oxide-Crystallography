@@ -4,7 +4,7 @@
 #include<cmath>
 
 class Epsilon{
-// Lattice parameters orthorhombic epsilon phase of Ga2o3
+// Lattice parameters orthorhombic (P n a 2 1) epsilon phase of Ga2O3
 const double a=5.0566;
 const double b=8.6867;
 const double c=9.3035;
